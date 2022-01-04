@@ -1,0 +1,23 @@
+* {
+	text-align: center;
+}
+
+h1 {
+	font-size: 35px;
+	font-family: Verdana, sans-serif;
+}
+
+p {
+	font-size: 20px;
+}
+
+.orange {
+	color: orange;
+}
+
+a {
+	font-family: Verdana, sans-serif;
+	font-size: 20px;
+	color: darkorange;
+	font-weight: bold;
+}
